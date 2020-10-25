@@ -63,6 +63,8 @@ window.localStorage.setItem("users", null);
     if(status) {
       window.localStorage.setItem("auth", JSON.stringify(status));
       window.location.href="/";
+    }else {
+      alert("E-mail e/ou senha incorretos")
     }
 
   })
