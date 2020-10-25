@@ -20,6 +20,18 @@ window.localStorage.setItem("users", null);
       "email": "mayra.pedroso10@outlook.com",
       "password": "Ma2020",
       "sex": "F"
+    },
+    {
+      "name": "Luciane Lima",
+      "email": "lucianelimaasilva@gmail.com",
+      "password": "93784520",
+      "sex": "F"
+    },
+    {
+      "name": "Sonia Regina",
+      "email": "sbiazim@gmail.com",
+      "password": "quelegal2020",
+      "sex": "F"
     }
   ]
 
